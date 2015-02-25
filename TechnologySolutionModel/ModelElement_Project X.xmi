@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.emfstore.client.model:ProjectSpace xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TechnologySolutionModel="TechnologySolutionModel" xmlns:org.eclipse.emfstore.client.model="http://eclipse.org/emf/emfstore/client/model" identifier="_LQZsELxiEeS5NJanPrhHXA" projectName="yxcxyc" resourceCount="1">
+  <project>
+    <modelElements xsi:type="TechnologySolutionModel:TechnologySolutionModel" xmi:id="_LQaTILxiEeS5NJanPrhHXA" ID="1" Name="Project X">
+      <TechnologySolutions xmi:id="_bMF9oLxrEeScNOPLSmc4ow" ID="1" Name="Project X" TechnologySolutions="#_A0NnwLxnEeSIP7wvg9O60Q #_MgatALxjEeS5NJanPrhHXA #_1JFIQLxkEeS5NJanPrhHXA #_1u45ILxmEeSIP7wvg9O60Q #_LQaTIrxiEeS5NJanPrhHXA #_lD2CsLxnEeSIP7wvg9O60Q #_zBJggLxmEeSIP7wvg9O60Q #_Cn3ooLxlEeS5NJanPrhHXA"/>
+      <ConceptualSolutions xmi:id="_5276ULxrEeScNOPLSmc4ow" ID="1" Name="Project X"/>
+      <DevelopmentEnvironments xmi:id="_8yY-0LxrEeScNOPLSmc4ow" ID="1" Name="Project X"/>
+      <Relations xmi:id="_-JFE8LxrEeScNOPLSmc4ow" ID="1" Name="Project X"/>
+    </modelElements>
+    <modelElements xsi:type="TechnologySolutionModel:TechnologySolutionCatalog" xmi:id="_LQaTIbxiEeS5NJanPrhHXA" ID="1" Name="Project X">
+      <TechnologySolution xmi:id="_LQaTIrxiEeS5NJanPrhHXA" ID="1" Name="JSF - Oracle" Description="JavaServer Faces Technology by Oracle" Features="#_LQaTJLxiEeS5NJanPrhHXA #_aBynULxjEeS5NJanPrhHXA"/>
+      <TechnologySolution xmi:id="_MgatALxjEeS5NJanPrhHXA" ID="2" Name="Facelets" Description="Web Template System" Features="#_BTMKILxkEeS5NJanPrhHXA #_8eWiILxjEeS5NJanPrhHXA"/>
+      <TechnologySolution xmi:id="_1JFIQLxkEeS5NJanPrhHXA" ID="3" Name="JSTL" Description="JavaServer Pages Standard Tag Library" Features="#_w1HYsLxkEeS5NJanPrhHXA"/>
+      <TechnologySolution xmi:id="_Cn3ooLxlEeS5NJanPrhHXA" ID="4" Name="Eclipse" Description="Eclipse Integrated Development Environment"/>
+      <TechnologySolution xmi:id="_zBJggLxmEeSIP7wvg9O60Q" ID="5" Name="Java" Description="Java Programming Language" Features="#_MuBOsLxkEeS5NJanPrhHXA #_Y2qbgLxkEeS5NJanPrhHXA"/>
+      <TechnologySolution xmi:id="_1u45ILxmEeSIP7wvg9O60Q" ID="6" Name="J2SE" Description="Java 2 Standard Edition (Java SE)"/>
+      <TechnologySolution xmi:id="_A0NnwLxnEeSIP7wvg9O60Q" ID="7" Name="JDBC" Description="Java Database Connectivity Technology" Features="#_dZmbMLxkEeS5NJanPrhHXA"/>
+      <TechnologySolution xmi:id="_lD2CsLxnEeSIP7wvg9O60Q" ID="8" Name="SQL Server" Description="Server running SQL database"/>
+    </modelElements>
+    <modelElements xsi:type="TechnologySolutionModel:TechnologyFeatureCatalog" xmi:id="_LQaTI7xiEeS5NJanPrhHXA" ID="2" Name="Project X">
+      <TechnologyFeature xmi:id="_LQaTJLxiEeS5NJanPrhHXA" ID="1" Name="Open Source" Description="Open Source allows modification which leads to adaption to the project's needs" CapabilityType="CommercialCapability"/>
+      <TechnologyFeature xmi:id="_aBynULxjEeS5NJanPrhHXA" ID="2" Name="Web Process" Description="Allows creation and handling of web processes" CapabilityType="BehaviorCapability"/>
+      <TechnologyFeature xmi:id="_pNQE4LxjEeS5NJanPrhHXA" ID="3" Name="Web Page Development" Description="Allows development of web pages"/>
+      <TechnologyFeature xmi:id="_qyfkYLxjEeS5NJanPrhHXA" ID="4" Name="Generate HTML" Description="Handles generation of HTML code" CapabilityType="BehaviorCapability"/>
+      <TechnologyFeature xmi:id="_xDBHQLxjEeS5NJanPrhHXA" ID="5" Name="Handle Events" Description="Allows handling of events"/>
+      <TechnologyFeature xmi:id="_8eWiILxjEeS5NJanPrhHXA" ID="6" Name="Parse &amp; Build Page Model" Description="Allows parsing and building of page models" CapabilityType="BehaviorCapability"/>
+      <TechnologyFeature xmi:id="_BTMKILxkEeS5NJanPrhHXA" ID="7" Name="Develop Page" Description="Handles the development of pages"/>
+      <TechnologyFeature xmi:id="_Gj_8cLxkEeS5NJanPrhHXA" ID="8" Name="UI Components" Description="Contains several UI components for the creation of a GUI" CapabilityType="UsabilityCapability"/>
+      <TechnologyFeature xmi:id="_MuBOsLxkEeS5NJanPrhHXA" ID="9" Name="Pure Object-Oriented" Description="This Technology Solution is purely object-oriented"/>
+      <TechnologyFeature xmi:id="_Y2qbgLxkEeS5NJanPrhHXA" ID="10" Name="Multithreading" Description="Allows parallel execution of threads"/>
+      <TechnologyFeature xmi:id="_dZmbMLxkEeS5NJanPrhHXA" ID="11" Name="SQL Server Data Access" Description="Contains components for communication with a SQL database" CapabilityType="InteroperabilityCapability"/>
+      <TechnologyFeature xmi:id="_w1HYsLxkEeS5NJanPrhHXA" ID="12" Name="String &amp; Logic Processing" Description="Allows processing of strings and logic" CapabilityType="BehaviorCapability"/>
+    </modelElements>
+    <modelElements xsi:type="TechnologySolutionModel:RelationCatalog" xmi:id="_LQaTJ7xiEeS5NJanPrhHXA" ID="1" Name="Project X"/>
+    <modelElements xsi:type="TechnologySolutionModel:ASTACatalog" xmi:id="_LQaTJbxiEeS5NJanPrhHXA" ID="1" Name="Project X"/>
+    <modelElements xsi:type="TechnologySolutionModel:TechnologyFeatureEvaluationCatalog" xmi:id="_LQaTJrxiEeS5NJanPrhHXA" ID="1" Name="Project X"/>
+  </project>
+  <localChangePackage href="emfstore://workspaces/default/projectspaces/_LQZsELxiEeS5NJanPrhHXA/operations#/"/>
+</org.eclipse.emfstore.client.model:ProjectSpace>
